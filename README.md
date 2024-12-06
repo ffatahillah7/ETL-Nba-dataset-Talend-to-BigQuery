@@ -17,6 +17,8 @@ Download Dataset file : https://media.geeksforgeeks.org/wp-content/uploads/nba.c
 3. Have a Big Query (Google Cloud) Account
 
 # Lesson Result
+![image](https://github.com/user-attachments/assets/e45b7f42-3a48-48af-b018-4b2845b25f79)
+
 1.  After download csv dataset to my local computer, create tFileInputDelimited and open nba dataset file. Field separator "," and Header 1.
 2.  Adding tMap component for cleansing, formating, and validating the Data.
 3.  Adding tBigQueryOutput. Config the credentials needed such as security key, project id, dataset, bucket, file storage google cloud.
